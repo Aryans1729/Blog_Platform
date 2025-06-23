@@ -629,7 +629,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ using modern web technologies**
+**Built with ❤️ by Aryan K Sharma**
 
 [⭐ Star this repo](https://github.com/your-username/personal-blog-platform) • [🐛 Report Bug](https://github.com/your-username/personal-blog-platform/issues) • [✨ Request Feature](https://github.com/your-username/personal-blog-platform/issues)
 
